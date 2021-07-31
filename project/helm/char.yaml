@@ -1,0 +1,5 @@
+apiVersion: 
+name: nginx-deployment
+version: 1.0.0
+keywords:
+  - nginx
