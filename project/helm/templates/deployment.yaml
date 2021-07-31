@@ -30,4 +30,4 @@ spec:
         resources:
           requests:
             memory: {{.Values.MetricSpec.memory}}
-            CPU: {{.Values.MetricSpec.CPU}}
+            cpu: {{.Values.MetricSpec.CPU}}
